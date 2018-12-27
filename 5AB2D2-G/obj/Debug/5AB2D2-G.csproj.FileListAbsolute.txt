@@ -1,0 +1,10 @@
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\bin\Debug\5AB2D2-G.exe.config
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\bin\Debug\5AB2D2-G.exe
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\bin\Debug\5AB2D2-G.pdb
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\obj\Debug\5AB2D2-G.csprojAssemblyReference.cache
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\obj\Debug\_5AB2D2_G.MainForm.resources
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\obj\Debug\_5AB2D2_G.Properties.Resources.resources
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\obj\Debug\5AB2D2-G.csproj.GenerateResource.cache
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\obj\Debug\5AB2D2-G.csproj.CoreCompileInputs.cache
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\obj\Debug\5AB2D2-G.exe
+D:\_PROJECTS\КоДа\bootloader\5ABBDD\5AB2D2\5AB2D2-G\obj\Debug\5AB2D2-G.pdb
